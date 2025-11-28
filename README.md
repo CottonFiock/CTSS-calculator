@@ -1,6 +1,7 @@
 # CTSS Calculator
 
-This repository contains a Streamlit-based tool (`ctss_calc.py`) used to run the CTSS calculation app.\\
+This repository contains a Streamlit-based tool (`ctss_calc.py`) used to run the CTSS calculation app.
+
 You can find the paper at [https://essay.utwente.nl/](https://www.utwente.nl/en/eemcs/scs/education/assignments/finished-assignments/master/20251031-developing-a-common-threat-scoring-system-for-cyber-risk-assessment/)
 
 ## 1. Clone or download the project
